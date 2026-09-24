@@ -52,7 +52,8 @@ Menambahkan fungsi describeString() untuk mengecek nilai null pada variable null
 Menambahkan fungsi lengthString() menggunakan safe call operator ?. pada variable nullString.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6e66a874-dea7-4ba1-a0c7-6a770168525d" />
 
-
+Menambahkan penggunaan Elvis operator ?: pada nullString?.length untuk memberikan nilai default 0.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/c0043817-50d4-4e67-ab35-cd15baffd3e0" />
 
 
 
