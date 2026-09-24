@@ -43,7 +43,8 @@ Menambahkan class Contact dengan properti id, email, dan fungsi printId().
 Menambahkan data class User dengan properti name dan id, mencoba toString(), operator ==, dan fungsi copy().
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/aea309a8-fca3-49ab-b9dd-2b3e6731702d" />
 
-
+Menambahkan variable neverNull, nullable, dan inferredNonNull untuk mencoba nullable types dan fungsi strLength().
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/33f463ca-5da1-4221-ae96-c2cfca5dc615" />
 
 
 
