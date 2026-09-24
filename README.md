@@ -13,7 +13,8 @@ Menambahkan readOnlyShapes dengan listOf() dan shapes dengan mutableListOf(), se
 Menambahkan readOnlyFruit dengan setOf() dan fruit dengan mutableSetOf(), serta fruitLocked sebagai read-only view.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/33cfab03-4ba4-4af8-afef-88abbe0b4d3c" />
 
-
+Menambahkan readOnlyJuiceMenu dengan mapOf() dan juiceMenu dengan mutableMapOf(), serta mengakses nilai "apple" dengan operator [].
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/cba8aec6-776d-42fd-abcf-6c877608c77a" />
 
 
 
