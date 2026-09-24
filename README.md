@@ -37,7 +37,8 @@ Menambahkan fungsi printMessage() tanpa return type dan tanpa kata kunci return.
 Menambahkan fungsi uppercaseString() dan versi lambda { string: String -> string.uppercase() }.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/32713959-854c-4ba9-b38e-d4e8a070c9da" />
 
-
+Menambahkan class Contact dengan properti id, email, dan fungsi printId().
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/dc799269-724d-469b-b361-dd3d2a2b1243" />
 
 
 
