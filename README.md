@@ -49,7 +49,8 @@ Menambahkan variable neverNull, nullable, dan inferredNonNull untuk mencoba null
 Menambahkan fungsi describeString() untuk mengecek nilai null pada variable nullString menggunakan if.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/f3359831-452c-49ff-b65b-2a32c3084ad1" />
 
-
+Menambahkan fungsi lengthString() menggunakan safe call operator ?. pada variable nullString.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6e66a874-dea7-4ba1-a0c7-6a770168525d" />
 
 
 
