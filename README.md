@@ -34,7 +34,8 @@ Menambahkan fungsi printMessageWithPrefix() dengan default value prefix = "Info"
 Menambahkan fungsi printMessage() tanpa return type dan tanpa kata kunci return.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/ed4d5e5d-00b3-4554-a58c-33b00bccad58" />
 
-
+Menambahkan fungsi uppercaseString() dan versi lambda { string: String -> string.uppercase() }.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/32713959-854c-4ba9-b38e-d4e8a070c9da" />
 
 
 
