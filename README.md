@@ -31,7 +31,8 @@ Menambahkan fungsi printMessageWithPrefix() yang dipanggil menggunakan named arg
 Menambahkan fungsi printMessageWithPrefix() dengan default value prefix = "Info", dipanggil dengan dan tanpa argumen prefix.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/718555b3-4b3e-4240-a52a-730cb9610c1b" />
 
-
+Menambahkan fungsi printMessage() tanpa return type dan tanpa kata kunci return.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/ed4d5e5d-00b3-4554-a58c-33b00bccad58" />
 
 
 
