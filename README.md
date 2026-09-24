@@ -7,7 +7,8 @@ Menambahkan variable customers = 10 dan mencetaknya menggunakan string template 
 Menambahkan variable val d, d = 3, dan val e: String = "hello", lalu dicetak dengan println.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/10fd8a53-e525-4fef-b4fb-d6b533eef4d0" />
 
-
+Menambahkan readOnlyShapes dengan listOf() dan shapes dengan mutableListOf(), serta shapesLocked sebagai read-only view.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/5b8eabb7-eaea-475b-9ec5-ad6950985032" />
 
 
 
