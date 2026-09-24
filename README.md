@@ -19,7 +19,8 @@ Menambahkan readOnlyJuiceMenu dengan mapOf() dan juiceMenu dengan mutableMapOf()
 Menambahkan variable d dan check, lalu menentukan nilai d menggunakan if-else berdasarkan check.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/cdffed12-80d6-4bc3-82ca-129b4f4bcaaa" />
 
-
+Menambahkan variable obj = "Hello" yang dicek dengan when sebagai pernyataan dan when sebagai ekspresi yang disimpan ke variable result.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/e11b693b-7939-44b7-8c6f-fec62a9e1a41" />
 
 
 
