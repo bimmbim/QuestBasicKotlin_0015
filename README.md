@@ -25,7 +25,8 @@ Menambahkan variable obj = "Hello" yang dicek dengan when sebagai pernyataan dan
 Menambahkan fungsi sum(x: Int, y: Int): Int yang mengembalikan hasil penjumlahan x dan y.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/c4424822-e2dc-48b8-8d3b-7c9fe9c4c94b" />
 
-
+Menambahkan fungsi printMessageWithPrefix() yang dipanggil menggunakan named arguments prefix dan message.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/669453b5-5a75-4ac6-914a-990906a728a2" />
 
 
 
