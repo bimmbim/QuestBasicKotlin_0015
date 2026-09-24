@@ -10,7 +10,8 @@ Menambahkan variable val d, d = 3, dan val e: String = "hello", lalu dicetak den
 Menambahkan readOnlyShapes dengan listOf() dan shapes dengan mutableListOf(), serta shapesLocked sebagai read-only view.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/5b8eabb7-eaea-475b-9ec5-ad6950985032" />
 
-
+Menambahkan readOnlyFruit dengan setOf() dan fruit dengan mutableSetOf(), serta fruitLocked sebagai read-only view.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/33cfab03-4ba4-4af8-afef-88abbe0b4d3c" />
 
 
 
