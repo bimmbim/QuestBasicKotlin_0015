@@ -28,7 +28,8 @@ Menambahkan fungsi sum(x: Int, y: Int): Int yang mengembalikan hasil penjumlahan
 Menambahkan fungsi printMessageWithPrefix() yang dipanggil menggunakan named arguments prefix dan message.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/669453b5-5a75-4ac6-914a-990906a728a2" />
 
-
+Menambahkan fungsi printMessageWithPrefix() dengan default value prefix = "Info", dipanggil dengan dan tanpa argumen prefix.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/718555b3-4b3e-4240-a52a-730cb9610c1b" />
 
 
 
