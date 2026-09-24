@@ -46,7 +46,8 @@ Menambahkan data class User dengan properti name dan id, mencoba toString(), ope
 Menambahkan variable neverNull, nullable, dan inferredNonNull untuk mencoba nullable types dan fungsi strLength().
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/33f463ca-5da1-4221-ae96-c2cfca5dc615" />
 
-
+Menambahkan fungsi describeString() untuk mengecek nilai null pada variable nullString menggunakan if.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/f3359831-452c-49ff-b65b-2a32c3084ad1" />
 
 
 
