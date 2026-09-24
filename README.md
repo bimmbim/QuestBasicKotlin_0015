@@ -40,7 +40,8 @@ Menambahkan fungsi uppercaseString() dan versi lambda { string: String -> string
 Menambahkan class Contact dengan properti id, email, dan fungsi printId().
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/dc799269-724d-469b-b361-dd3d2a2b1243" />
 
-
+Menambahkan data class User dengan properti name dan id, mencoba toString(), operator ==, dan fungsi copy().
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/aea309a8-fca3-49ab-b9dd-2b3e6731702d" />
 
 
 
