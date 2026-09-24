@@ -16,7 +16,8 @@ Menambahkan readOnlyFruit dengan setOf() dan fruit dengan mutableSetOf(), serta 
 Menambahkan readOnlyJuiceMenu dengan mapOf() dan juiceMenu dengan mutableMapOf(), serta mengakses nilai "apple" dengan operator [].
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/cba8aec6-776d-42fd-abcf-6c877608c77a" />
 
-
+Menambahkan variable d dan check, lalu menentukan nilai d menggunakan if-else berdasarkan check.
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/cdffed12-80d6-4bc3-82ca-129b4f4bcaaa" />
 
 
 
